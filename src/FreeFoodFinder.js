@@ -15,7 +15,7 @@ class FreeFoodFinder extends Component{
 
             <View style={styles.mainContainer}>
                 <TopTitleBar/>
-
+                <Event/>
             </View>
 
 

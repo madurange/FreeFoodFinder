@@ -7,7 +7,7 @@ export const styles=StyleSheet.create({
         flex:1,
         width:100+"%",
         height:100+"%",
-        justifyContent:"space-between",
+        justifyContent:"flex-start",
         alignItems:"center"
     },
 
@@ -20,20 +20,49 @@ export const styles=StyleSheet.create({
         alignItems:"center",
         backgroundColor: "rgb(30,30,50)",
         borderBottomWidth:StyleSheet.hairlineWidth,
-        borderBottomColor:"gray"
+        borderBottomColor:"lightgrey"
 
     },
 
     appName:{
         color:"white",
         fontWeight:'bold',
-        fontSize:17
+        fontSize:20
     },
 
     topBarIcons:{
         width:20,
         height:20,
         tintColor:"white"
+
+    },
+
+    eventContainer:{
+        width:100+"%",
+        borderTopWidth:StyleSheet.hairlineWidth,
+        borderTopColor:"lightgrey",
+        borderBottomWidth:StyleSheet.hairlineWidth,
+        borderBottomColor:"lightgrey"
+
+
+    },
+
+    eventTopBar:{
+        flexDirection:'row',
+        alignItems:"center",
+        justifyContent:"space-between",
+        width:100+"%",
+        height:45,
+        backgroundColor:"white"
+    },
+
+    eventBottomBar:{
+        flexDirection:'row',
+        alignItems:"center",
+        justifyContent:"space-between",
+        width:100+"%",
+        height:50,
+        backgroundColor:"white"
 
     }
 

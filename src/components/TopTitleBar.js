@@ -3,7 +3,8 @@ import{
     View,
     Text,
     StyleSheet,
-    Image
+    Image,
+    TouchableOpacity
 } from 'react-native';
 
 import {styles} from '../styles/styles.js';
@@ -14,15 +15,15 @@ class TopTitleBar extends Component{
     render(){
         return(
             <View style={styles.topTitleBar}>
-                <View>
+                <TouchableOpacity>
                     <Image style={[styles.topBarIcons,{marginLeft:10}]} source={config.icons.infoIcon} />
-                </View>
+                </TouchableOpacity>
                 <View>
                     <Text style={styles.appName}>Free Food Finder</Text>
                 </View>
-                <View>
+                <TouchableOpacity>
                     <Image style={[styles.topBarIcons,{marginRight:10}]} source={config.icons.settingsIcon} />
-                </View>
+                </TouchableOpacity>
             </View>
         );
     }
