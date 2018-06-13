@@ -39,10 +39,9 @@ export const styles=StyleSheet.create({
 
     eventContainer:{
         width:100+"%",
-        borderTopWidth:StyleSheet.hairlineWidth,
-        borderTopColor:"lightgrey",
         borderBottomWidth:StyleSheet.hairlineWidth,
-        borderBottomColor:"lightgrey"
+        borderBottomColor:"lightgrey",
+        marginBottom:10
 
 
     },
@@ -61,7 +60,7 @@ export const styles=StyleSheet.create({
         alignItems:"center",
         justifyContent:"space-between",
         width:100+"%",
-        height:50,
+        height:55,
         backgroundColor:"white"
 
     }
