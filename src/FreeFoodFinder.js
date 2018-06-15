@@ -36,7 +36,7 @@ class FreeFoodFinder extends Component{
                         votesNum={2}
                     /> 
                     <Event 
-                        eventName="Pan Cakes"
+                        eventName="Pan Cakes for all"
                         eventLocation="Engineering Building"
                         eventRoomNumber="ENG Lobby"
                         eventStartTime="Tomorrow - 10.00AM"
