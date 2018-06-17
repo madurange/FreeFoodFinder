@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/pasindu/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/pasindu/ReactNativeApps/FreeFoodFinder/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_5a8b8d94c633a5bde1f2b97541f568ac43e90667.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pasindu/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/pasindu/ReactNativeApps/FreeFoodFinder/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_422625970e7d978af5763099fe02826fcd765864.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pasindu/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/pasindu/ReactNativeApps/FreeFoodFinder/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_2de41342d08caf3ab8232580341e27c4d74ce1e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pasindu/ReactNativeApps/FreeFoodFinder/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="/Users/pasindu/ReactNativeApps/FreeFoodFinder/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.55.4_4bcde6f142dfbc042fe03cb870e8e2177dced1c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pasindu/ReactNativeApps/FreeFoodFinder/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/pasindu/ReactNativeApps/FreeFoodFinder/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_6788f9cc10711b912a37a04f146332f0ebb4ef40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pasindu/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/pasindu/ReactNativeApps/FreeFoodFinder/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_dd60cfaab446f63e8a69cac316089042abfe0b70.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pasindu/ReactNativeApps/FreeFoodFinder/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/pasindu/ReactNativeApps/FreeFoodFinder/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_1b899001960c4fd7461a9f217e8441bb68a9cf2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pasindu/ReactNativeApps/FreeFoodFinder/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/pasindu/ReactNativeApps/FreeFoodFinder/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_8e6464240bd52cfe73c906d30b7ce4ab54aeb003.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pasindu/ReactNativeApps/FreeFoodFinder/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/pasindu/ReactNativeApps/FreeFoodFinder/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_0f47ec751187d3f088938fffa5a13f37116e2708.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pasindu/ReactNativeApps/FreeFoodFinder/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/pasindu/ReactNativeApps/FreeFoodFinder/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_0b72996da7d94fb55eff2d731faea6595fd515d8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pasindu/ReactNativeApps/FreeFoodFinder/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/pasindu/ReactNativeApps/FreeFoodFinder/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_b273cccb2d1ba80ec48ff971a815d51b61eca929.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/usr/local/share/android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/pasindu/ReactNativeApps/FreeFoodFinder/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_bc1488b753420f43073b4eac0abe627265f05aeb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pasindu/ReactNativeApps/FreeFoodFinder/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.55.4/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/pasindu/ReactNativeApps/FreeFoodFinder/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_193384ec9fce81e0b979d100f38cfa0d777a0dfe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pasindu/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/pasindu/ReactNativeApps/FreeFoodFinder/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_29ab5cb7f395d07dc5dd1cc6d37f0fbacb07b206.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pasindu/ReactNativeApps/FreeFoodFinder/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/pasindu/ReactNativeApps/FreeFoodFinder/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_b7658e24bd6617b96a820a93512cb3af6641c077.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pasindu/ReactNativeApps/FreeFoodFinder/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/pasindu/ReactNativeApps/FreeFoodFinder/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_c5d89684ad4b58f0a869371c4cc84610827e9ca0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pasindu/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/pasindu/ReactNativeApps/FreeFoodFinder/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_acabdaf9505699435af19b99535a028993af8eec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pasindu/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/pasindu/ReactNativeApps/FreeFoodFinder/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_b2b53f79c55936b7e6038991b16cba3e1b267774.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pasindu/ReactNativeApps/FreeFoodFinder/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/pasindu/ReactNativeApps/FreeFoodFinder/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_9ec9b2eb516d93e6fbb80ce56cee203d6b6c55f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pasindu/ReactNativeApps/FreeFoodFinder/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/pasindu/ReactNativeApps/FreeFoodFinder/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_810a54e82237cd8b0047dc96e9e10035f17ca161.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/pasindu/ReactNativeApps/FreeFoodFinder/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/pasindu/ReactNativeApps/FreeFoodFinder/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_e494d2ed266c5973d9a04c271a7766da4121455d.jar" />
+    </item>
+
+</items>

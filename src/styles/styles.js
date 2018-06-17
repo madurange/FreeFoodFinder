@@ -1,4 +1,8 @@
-import {StyleSheet} from 'react-native';
+import {
+    StyleSheet,
+    Platform
+} from 'react-native';
+
 import config from '../config';
 
 export const styles=StyleSheet.create({
@@ -14,7 +18,7 @@ export const styles=StyleSheet.create({
     topTitleBar:{
         width:100+"%",
         height:config.styleConstants.barRowHeight,
-        marginTop:20,
+        marginTop: Platform.OS === 'ios' ? 20 : 0,
         flexDirection:"row",
         justifyContent:"space-between",
         alignItems:"center",

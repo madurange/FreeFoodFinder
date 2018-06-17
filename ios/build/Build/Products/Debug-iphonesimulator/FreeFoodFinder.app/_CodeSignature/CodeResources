@@ -6,7 +6,7 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		3GgCF4rVrzmRGtSkl3R2i8FnVmM=
+		n5djMX42WDX+iZqaECXbNCqJCmY=
 		</data>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
 		<data>
@@ -51,7 +51,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		WRHMsjmz0Vv+GpZFgz+l8C6QMzM=
+		Ie4CpA1diy+88yZ4eRW0YIlzs98=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -63,11 +63,11 @@
 		</data>
 		<key>PlugIns/FreeFoodFinderTests.xctest.dSYM/Contents/Resources/DWARF/FreeFoodFinderTests</key>
 		<data>
-		JptQTRPWgQ9G0FppN1iEQD8rRKU=
+		v7Y3iqbljZhbnaZOIFDpre4LU+M=
 		</data>
 		<key>PlugIns/FreeFoodFinderTests.xctest/FreeFoodFinderTests</key>
 		<data>
-		tFduwQUtSQzDyOr+H20xf2hNHE8=
+		PRr/EzLN7U2Ud6NdPAvGPbyERiI=
 		</data>
 		<key>PlugIns/FreeFoodFinderTests.xctest/Info.plist</key>
 		<data>
@@ -84,11 +84,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			3GgCF4rVrzmRGtSkl3R2i8FnVmM=
+			n5djMX42WDX+iZqaECXbNCqJCmY=
 			</data>
 			<key>hash2</key>
 			<data>
-			0tTCKXXNGWjd+t3n7A+aweGJq0zu5V9qFJoCkV5ciJo=
+			ST467N+I8dZuNOW6YJ6g+BQ4JQuORfO3b+6z2fU2Qac=
 			</data>
 		</dict>
 		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
@@ -207,22 +207,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			JptQTRPWgQ9G0FppN1iEQD8rRKU=
+			v7Y3iqbljZhbnaZOIFDpre4LU+M=
 			</data>
 			<key>hash2</key>
 			<data>
-			vF9HkXgcUlgdPUNiETzFR8lXuo+8TT8YlrBmSkXB5s4=
+			EkViDvdaSz4pcUNQxHZVRLG7gaYH0VtEi1I90KcAcX0=
 			</data>
 		</dict>
 		<key>PlugIns/FreeFoodFinderTests.xctest/FreeFoodFinderTests</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tFduwQUtSQzDyOr+H20xf2hNHE8=
+			PRr/EzLN7U2Ud6NdPAvGPbyERiI=
 			</data>
 			<key>hash2</key>
 			<data>
-			BA2x68q0Yi+wVUCMj9UV/n62gUcXfzHJWn+pR08Zyzo=
+			wTi6oziiuGkBCjcXEHjB0RJOjXgogoT9KhyM/JpegFI=
 			</data>
 		</dict>
 		<key>PlugIns/FreeFoodFinderTests.xctest/Info.plist</key>

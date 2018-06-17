@@ -61,11 +61,12 @@ class Event extends Component{
                             <Image style={{width:26, height:26, marginRight:4}} source={config.icons.threeDots} />
                         </TouchableOpacity>
                     </View>
-                    
+                
                 </View>
                 <View>
                     <Image style={{width:100+"%",height:360}} source={{uri:this.state.eventImages[0]}} />
                 </View>
+
                 <View style={styles.eventBottomBar}>
                     <View style={{flex:0.87,alignItems:"flex-start"}}> 
                         <Text style={{fontSize:15, marginLeft:4}}>{this.state.eventText}</Text>
